@@ -1,0 +1,6 @@
+{
+  "assetsBaseUrl": "http://192.168.1.40:3000/",
+  "port": 3000,
+  "jwtPrivateKey": "mentor_jwtPrivateKey",
+  "db": "mongodb+srv://dbUser:dbUser@cluster0.mtsbl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}

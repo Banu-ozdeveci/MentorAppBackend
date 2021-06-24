@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "mentor_jwtPrivateKey",
+  "db": "mongodb+srv://dbUser:dbUser@cluster0.mtsbl.mongodb.net/Test?retryWrites=true&w=majority"
+}
