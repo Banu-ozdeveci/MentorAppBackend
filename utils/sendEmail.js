@@ -5,7 +5,7 @@ const sendEmail = (options) => {
   const transporter = nodemailer.createTransport({
     service: "SendGrid",
     auth: {
-      user: "apikey",
+      user: USER
       pass: Password,
     },
   });
