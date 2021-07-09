@@ -6,7 +6,7 @@ const sendEmail = (options) => {
     service: "SendGrid",
     auth: {
       user: "apikey",
-      pass: "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",
+      pass: Password,
     },
   });
 
@@ -28,5 +28,4 @@ const sendEmail = (options) => {
 
 module.exports = sendEmail;
 
-// password: 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
-// apKey: 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
+
