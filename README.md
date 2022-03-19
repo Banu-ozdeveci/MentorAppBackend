@@ -1,6 +1,5 @@
 # MentorAppBackend
-Backend for mentorApp using Node.js, Express, MongoDb, Redux
-
+Backend for the mentorApp using Node.js, Express, MongoDb, Redux
 
 
 # Technology Used 
@@ -10,7 +9,9 @@ Backend for mentorApp using Node.js, Express, MongoDb, Redux
 - Node
 - Express
 - MongoDB
-- -Redux
+- Redux
+- Axios
+- Jest
 
 ## Installation
 
